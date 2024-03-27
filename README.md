@@ -4,6 +4,9 @@ This repository contains the determination and use of straight-line calibration 
 The original code was in Matlab, but it has been converted to R.
 
 
+[Primer codigo]([https://link-url-here.org](https://github.com/danifer126/TS28037/blob/main/R/TS28037_GDR1.R)https://github.com/danifer126/TS28037/blob/main/R/TS28037_GDR1.R)
+
+
 
 
 
